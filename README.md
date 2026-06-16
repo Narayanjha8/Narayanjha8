@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-This is my readme file after changing in vs code <br> .
+I am Narayan Kumar Jha, a passionate software developer and technology enthusiast with a strong interest in Data Structures & Algorithms, Artificial Intelligence, and web development. I am proficient in Java and have solved 700+ coding problems across platforms such as LeetCode, CodeChef, Smart Interviews, and InterviewBit. I actively participate in weekly coding contests to strengthen my problem-solving skills and competitive programming abilities.
+
+My technical knowledge includes Object-Oriented Programming (OOP), Operating Systems (OS), Data Structures & Algorithms (DSA), Database Management Systems (DBMS), and Web Development. I enjoy building practical solutions and have worked on several real-world projects, particularly in the field of Artificial Intelligence, leveraging modern AI models and APIs to develop intelligent and user-friendly applications.
